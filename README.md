@@ -10,8 +10,6 @@ OpenSTL is a comprehensive benchmark for spatio-temporal predictive learning, en
   <img src='https://github-production-user-asset-6210df.s3.amazonaws.com/44519745/246222226-61e6b8e8-959c-4bb3-a1cd-c994b423de3f.png' width="90%">
 </p> -->
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Overview
 
 <details open>
@@ -100,8 +98,6 @@ For the convenience of users, we provide a tutorial on how to train, evaluate, a
 A Colab demo of this tutorial is also provided:
 
 <a href="https://colab.research.google.com/drive/19uShc-1uCcySrjrRP3peXf2RUNVzCjHh?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Visualization
 
