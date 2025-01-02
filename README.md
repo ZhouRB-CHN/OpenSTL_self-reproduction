@@ -13,7 +13,7 @@ OpenSTL is a comprehensive benchmark for spatio-temporal predictive learning, en
 ## Overview
 
 <details open>
-<summary>Major Features and Plans</summary>
+<summary>Major Features</summary>
 
 
 - **Flexiable Code Design.**
@@ -21,9 +21,6 @@ OpenSTL is a comprehensive benchmark for spatio-temporal predictive learning, en
 
 - **Standard Benchmarks.**
   OpenSTL will support standard benchmarks of STL algorithms image with training and evaluation as many open-source projects (e.g., [MMDetection](https://github.com/open-mmlab/mmdetection) and [USB](https://github.com/microsoft/Semi-supervised-learning)). We are working on training benchmarks and will update results synchronizingly.
-
-- **Plans.**
-  We plan to provide benchmarks of various STL methods and MetaFormer architectures based on SimVP in various STL application tasks, e.g., video prediction, weather prediction, traffic prediction, etc. We encourage researchers interested in STL to contribute to OpenSTL or provide valuable advice!
 
 </details>
 
